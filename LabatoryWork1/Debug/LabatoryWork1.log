@@ -1,2 +1,5 @@
 ﻿  LabatoryWork1.cpp
-  LabatoryWork1.vcxproj -> C:\Users\ivano\OneDrive\Документы\Labs\C++\LabatoryTask1\Debug\LabatoryWork1.exe
+c:\users\ivano\onedrive\документы\labs\c++\laboratory1\labatorywork1\labatorywork1.cpp(123): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\ivano\onedrive\документы\labs\c++\laboratory1\labatorywork1\labatorywork1.cpp(171): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\ivano\onedrive\документы\labs\c++\laboratory1\labatorywork1\labatorywork1.cpp(219): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LabatoryWork1.vcxproj -> C:\Users\ivano\OneDrive\Документы\Labs\C++\Laboratory1\Debug\LabatoryWork1.exe
